@@ -37,5 +37,3 @@ function TeacherList() {
 }
 
 export default TeacherList;
-
-//Falta 7 minutos
